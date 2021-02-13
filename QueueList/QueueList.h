@@ -1,6 +1,6 @@
 #ifndef _TQUEUELIST_H_
 #define _TQUEUELIST_H_
-#include "list.h"
+#include "../List/List.h"
 #include <iostream>
 
 using namespace std;

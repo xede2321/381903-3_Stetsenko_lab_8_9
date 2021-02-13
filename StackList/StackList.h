@@ -1,5 +1,5 @@
 #pragma once
-#include "list.h"
+#include "../List/List.h"
 #include <iostream>
 
 using namespace std;
